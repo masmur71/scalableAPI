@@ -1,9 +1,5 @@
 #  High-Performance Inventory API
 
-[![CI Pipeline](https://github.com/masmur71/inventoryAPI/.github/workflows/main.yml/badge.svg)](https://github.com/your-username/inventory-api/actions)
-[![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)](https://hub.docker.com/)
-[![Railway](https://img.shields.io/badge/Deployment-Railway-success?logo=railway)](https://railway.app/)
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 A robust, concurrency-safe RESTful API designed to handle high-traffic inventory management. This project demonstrates backend engineering concepts including **Atomic Database Operations**, **Cache-Aside Strategy**, and **Containerized DevOps Pipelines**.
 
